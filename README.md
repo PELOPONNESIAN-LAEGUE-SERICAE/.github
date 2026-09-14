@@ -36,7 +36,7 @@ A private quantitative research & backtesting laboratory focusing on market micr
   
   高度标准化的数据清洗与特征库生成
 
-- **Quant Visualizer ✅**[Eyjafalla Quant Visualizer](https://github.com/Cicero-01/Eyjafalla-Quant-Visualizer)
+- **Quant Visualizer ✅**[Eyjafalla-Quant Visualizer](https://github.com/Cicero-01/Eyjafalla-Quant-Visualizer)
   
   多图层、多状态交互式可视化脚本
 
