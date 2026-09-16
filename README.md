@@ -23,13 +23,16 @@ A private quantitative research & backtesting laboratory focusing on market micr
 
   HMM 隐马尔可夫模型  ✅
 
-	DBSCAN 基于密度的带噪声空间聚类  ✅
+  DBSCAN 基于密度的带噪声空间聚类  ✅
 
-	Deep Learning 深度学习与神经网络  📝*正在开发 Under Develpment*
+  Deep Learning 深度学习与神经网络：
+
+  	`CNN-Autoencoder`  📝*正在开发 Under Develpment*
+  
 
 - **Supervised Machine Learning 监督机器学习**
  
-	Random Forest 随机森林✅
+  Random Forest 随机森林✅
 
 ### 3. General Backtesting Platform 通用回测平台
 - **Data Pipelines ✅**
