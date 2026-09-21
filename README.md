@@ -16,14 +16,14 @@ A private quantitative research & backtesting laboratory focusing on market micr
 ### 2. Market Regime Classification  市场状态分类
 - **Heuristic Algorithms on Classical Indicators 经典技术形态的算法复现**
 
-  Fractals/Swing High-Low 分形与道氏理论（“空头浪多头浪”）✅
+  `Fractals/Swing High-Low` 分形与道氏理论（“空头浪多头浪”）✅ [Kaltsit-Swing&Factal Regime Detector](https://github.com/Cicero-01/Kaltsit-Swing-Factal-Regime-Detector)
 
-  Volume Profile 成交量分布 📝*正在开发 Under Develpment*
+  `Volume Profile` 成交量分布 📝*正在开发 Under Develpment*
 - **Unsupervised Machine Learning 无监督机器学习** 
 
-  HMM 隐马尔可夫模型  ✅
+  `HMM` 隐马尔可夫模型  ✅
 
-  DBSCAN 基于密度的带噪声空间聚类  ✅
+  `DBSCAN` 基于密度的带噪声空间聚类  ✅
 
   Deep Learning 深度学习与神经网络：
 
@@ -39,7 +39,7 @@ A private quantitative research & backtesting laboratory focusing on market micr
   
   高度标准化的数据清洗与特征库生成
 
-- **Quant Visualizer ✅**[Eyjafalla-Quant Visualizer](https://github.com/Cicero-01/Eyjafalla-Quant-Visualizer)
+- **Quant Visualizer ✅**  [Eyjafalla-Quant Visualizer](https://github.com/Cicero-01/Eyjafalla-Quant-Visualizer)
   
   多图层、多状态交互式可视化脚本
 
