@@ -19,6 +19,8 @@ A private quantitative research & backtesting laboratory focusing on market micr
   `Fractals/Swing High-Low` 分形与道氏理论（“空头浪多头浪”）✅ [Kaltsit-Swing&Factal Regime Detector](https://github.com/Cicero-01/Kaltsit-Swing-Factal-Regime-Detector)
 
   `Volume Profile` 成交量分布 📝*正在开发 Under Develpment*
+
+  `Pivot` 枢轴点与压力支撑位 ✅
 - **Unsupervised Machine Learning 无监督机器学习** 
 
   `HMM` 隐马尔可夫模型  ✅
