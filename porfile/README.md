@@ -23,7 +23,7 @@ A private quantitative research & backtesting laboratory focusing on market micr
   `Pivot` 枢轴点与压力支撑位 ✅
 - **Unsupervised Machine Learning 无监督机器学习** 
 
-  `HMM` 隐马尔可夫模型  ✅
+  `HMM` 隐马尔可夫模型  ✅ [PRTS-Market Regime HMM](https://github.com/Cicero-01/PRTS-Market-Regime-HMM-and-Training-Framework)
 
   `DBSCAN` 基于密度的带噪声空间聚类  ✅
 
